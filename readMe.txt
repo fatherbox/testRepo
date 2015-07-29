@@ -1,0 +1,1 @@
+This is a sample project used for Lesson 1-6 for Thinkful's Angular program. Have a nice day!
